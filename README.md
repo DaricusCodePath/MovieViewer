@@ -1,10 +1,12 @@
 # MovieViewer
 Week1 - CodePath
 
-# Week 1 - MovieViewer
+# Week 1 - *MovieViewer*
 
-MovieViewer is a movies app using the The Movie Database API
-Time spent: **12** hours spent in total
+MovieViewer is a movies app using the The Movie Database API(http://docs.themovieb.apiary.io/#).
+Time spent: **12** hours spent in total.
+
+Submitted by : *Daricus Duncan*
 
 # User Stories
 
@@ -33,11 +35,14 @@ Here's a walkthrough of implemented user stories:
 
 
 
-GIF created with LiceCap.
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+I am actually blessed that I did not catch hell on this project. I had some small issues
+with pod files but the rest worked out for me thank Jesus!
 
 License
 
