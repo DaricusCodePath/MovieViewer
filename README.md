@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
+https://drive.google.com/a/msstate.edu/file/d/0B2UXk_RdqZ5QRTBsQ1hOUTR1WXc/view?usp=sharing
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
