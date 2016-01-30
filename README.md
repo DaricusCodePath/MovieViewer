@@ -1,7 +1,7 @@
 # MovieViewer
 Week1 - CodePath
 
-# Week 1 - *MovieViewer*
+# Week 1 - MovieViewer
 
 MovieViewer is a movies app using the The Movie Database API(http://docs.themovieb.apiary.io/#). <br>
 Time spent: **12** hours spent in total.
