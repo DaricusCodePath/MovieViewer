@@ -35,6 +35,8 @@ Here's a walkthrough of implemented user stories:
 
 https://drive.google.com/a/msstate.edu/file/d/0B2UXk_RdqZ5QRTBsQ1hOUTR1WXc/view?usp=sharing
 
+<iframe class="imgur-embed" width="100%" height="875" frameborder="0" src="http://i.imgur.com/ZvGws6v.gifv#embed"></iframe>
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
