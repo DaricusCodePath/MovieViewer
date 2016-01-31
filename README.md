@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= 'http://i.imgur.com/ZvGws6v.gif' title = 'Video Walkthrough' width=' ' alt='Video Walkthrough' />
+<img src= 'http://i.imgur.com/ZvGws6v.gif' />
 
 https://drive.google.com/a/msstate.edu/file/d/0B2UXk_RdqZ5QRTBsQ1hOUTR1WXc/view?usp=sharing
 
