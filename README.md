@@ -112,6 +112,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+I could not get a modal push to work because of a navigational controller that I had in my app.
+I will continue to work on it and figure it out and make an update. I was trying to do a modal 
+push and raise the high res of the image and do an overview scroll.
+
 ## License
 
     Copyright [2016] [Daricus Duncan
