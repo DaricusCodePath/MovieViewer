@@ -118,10 +118,10 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
     
     func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCellWithIdentifier("MovieCell", forIndexPath: indexPath) as! MovieCell
-        cell.selectionStyle = .Blue
+        cell.selectionStyle = .Default
         
         let backgroundView = UIView()
-        backgroundView.backgroundColor = UIColor.blueColor()
+        backgroundView.backgroundColor = UIColor.cyanColor()
         cell.selectedBackgroundView = backgroundView
         
         let movie = movies![indexPath.row]

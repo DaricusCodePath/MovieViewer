@@ -33,7 +33,7 @@ class DetailsViewController: UIViewController {
         
         let overview = movie["overview"] as? String
         
-        let baseURL = "http://image.tmdb.org/t/p/w500/"
+        let baseURL = "http://image.tmdb.org/t/p/original/"
         
         if let posterPath = movie["poster_path"] as? String {
             let posterURL = NSURL(string: baseURL + posterPath)
@@ -52,7 +52,10 @@ class DetailsViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
-   
+    @IBAction func DoneEdit(sender: AnyObject) {
+        self.dismissViewControllerAnimated(true, completion: nil)
+    }
+  
     /*
     // MARK: - Navigation
 
